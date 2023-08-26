@@ -1,0 +1,30 @@
+:root{
+
+    --background-verde-oliva: #5C8374;
+    --background-verde-oliva-oscuro: #183D3D;
+    --background-verde-oliva-claro: #93B1A6;
+    --background-blanco: #FFFFFF;    
+    --background-negro: #000000;
+
+
+    --open-sans:'Open Sans', sans-serif;
+    --montserrat:'Monserrat', sans-serif;
+    
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#div-principal{
+
+    justify-content: initial;
+    font-family: var(--montserrat);
+
+
+}
+
+#clasprueba{
+    width: 20%;
+}

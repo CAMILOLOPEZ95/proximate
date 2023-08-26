@@ -1,0 +1,7 @@
+@media (max-width: 500px) {
+
+    #text-footer {
+      display: none; /* Oculta el elemento <p> */
+    }
+  }
+
